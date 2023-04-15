@@ -3,7 +3,7 @@ import { SubmitKey } from "../store/app";
 const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
-    Unauthorized: "已开启极速版对话，快向我提问吧！",
+    Unauthorized: "已开启极速版对话,快向我提问吧!",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
