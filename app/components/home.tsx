@@ -179,6 +179,7 @@ function _Home() {
           <div className={styles["sidebar-title"]}>ChatGPT极速版</div>
           <div className={styles["sidebar-sub-title"]}>
             GPT极速版拥有更快回复速度，点击收藏<a href="https://gi0.cn/fXz" target="_blank">数卡商店</a>或加微信Sept1520防止网站丢失!
+            <br/>由于还在内测期间，后期可能会换网址，兄弟们一定要加微或qq879804071防止网站丢失!!!
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
