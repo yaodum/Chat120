@@ -3,7 +3,7 @@ import { SubmitKey } from "../store/app";
 const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
-    Unauthorized: "请点击左下角设置按钮,在访问密码栏中输入访问密码2015415X 即可开启极速版对话。",
+    Unauthorized: "已开启极速版对话，快向我提问吧！",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
