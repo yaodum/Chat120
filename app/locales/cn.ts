@@ -3,7 +3,7 @@ import { SubmitKey } from "../store/app";
 const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
-    Unauthorized: "已开启极速版对话快向我提问吧",
+    Unauthorized: "已开启极速版对话 由于还在内测阶段后期会换网址或者服务器，建议加微信Sept1520防止网站丢失",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
