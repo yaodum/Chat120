@@ -146,7 +146,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "Hello，开始和我对话吧，访问码如果响应较慢建议在左侧链接商店购买独享账号",
+    BotHello: "极速版唯一地址https://vip.chatwebai.top，如果浏览器地址不是该地址请切换到改地址使用。需要GPT账号的可在左侧数卡商店选购，防止网站丢失请加微信",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
