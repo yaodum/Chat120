@@ -14,7 +14,7 @@ import { IconButton } from "./button";
 import styles from "./home.module.scss";
 
 import SettingsIcon from "../icons/settings.svg";
-import GithubIcon from "../icons/github.svg";
+import GithubIcon from "../icons/qq.svg";
 import ChatGptIcon from "../icons/chatgpt.svg";
 
 import BotIcon from "../icons/bot.svg";
@@ -179,7 +179,7 @@ function _Home() {
           <div className={styles["sidebar-title"]}>ChatGPT极速版</div>
           <div className={styles["sidebar-sub-title"]}>
             GPT极速版拥有更快回复速度，点击<a href="https://gi0.cn/fXz" target="_blank">数卡商店</a>购买ChatGPT账号
-            
+            <br/>点击下方QQ图标进群防止丢失，群内不定时更新免费访问码
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
@@ -214,7 +214,11 @@ function _Home() {
                 shadow
               />
             </div>
-            
+            <div className={styles["sidebar-action"]}>
+              <a href={REPO_URL} target="_blank">
+                <IconButton icon={<GithubIcon />} shadow />
+              </a>
+            </div>
           </div>
           <div>
             <IconButton
