@@ -178,7 +178,7 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>ChatGPT极速版</div>
           <div className={styles["sidebar-sub-title"]}>
-            GPT极速版拥有更快回复速度，点击<a href="https://gi0.cn/fXz" target="_blank">数卡商店</a>购买ChatGPT账号
+            GPT极速版拥有更快回复速度，点击<a href="https://www.youpumao.xyz/ieaeUn" target="_blank">数卡商店</a>购买ChatGPT账号
             <br/>点击下方QQ图标进群防止丢失，群内不定时更新免费访问码
           </div>
           <div className={styles["sidebar-logo"]}>
