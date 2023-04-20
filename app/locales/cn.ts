@@ -3,7 +3,7 @@ import { SubmitKey } from "../store/app";
 const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
-    Unauthorized: "1、使用电脑的用户，请按键盘上的CTRL+D进行收藏
+    Unauthorized: "1、使用电脑的用户，请按键盘上的CTRL+D进行收藏",
 2、无需魔法，直接使用，您可避免某些不必要的风险。
 3、调用OpenAI官方最新API接口，绝对保真，毫秒级响应速度。
 4、多端同步，无论电脑还是手机，随时打开随时用，拒绝设备限制！
